@@ -1,0 +1,13 @@
+.adminhome{
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://img.freepik.com/free-vector/clean-medical-background_53876-97927.jpg?w=2000');
+    height:86vh;
+}
+
+.adminhome h1{
+    color: rgb(15, 40, 152);
+    font-size: 50px
+}

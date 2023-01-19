@@ -1,0 +1,121 @@
+{
+  "departments": [
+    {
+      "homepage": "http://vyshakhkv.github.io/Hospital-Manager",
+      "DepartmentName": "Microbiology",
+      "DepartmentProfileImage": "https://msrmc.ac.in/wp-content/uploads/2018/01/micro_mob-348x272-1.jpg",
+      "YearFounded": "2016",
+      "Description": "Microbiology is the study of the biology of microscopic organisms - viruses, bacteria, algae, fungi, slime molds, and protozoa.",
+      "HOD": "Rajeev",
+      "id": 1
+    },
+    {
+      "DepartmentName": "Gynaecology",
+      "DepartmentProfileImage": "https://blossomscare.in/wp-content/uploads/2019/02/ServicesBlossoms-01-768x456.jpg",
+      "YearFounded": "2011",
+      "Description": "Gynaecology or gynecology (see spelling differences) is the area of medicine that involves the treatment of women's diseases, especially those of the reproductive organs. It is often paired with the field of obstetrics, forming the combined area of obstetrics and gynecology (OB-GYN).",
+      "HOD": "Dr.Praveen Kumar",
+      "id": 2
+    },
+    {
+      "DepartmentName": "Cardiology",
+      "DepartmentProfileImage": "https://kdahweb-static.kokilabenhospital.com/kdah-2019/product/1579950178.jpg",
+      "YearFounded": "2010",
+      "Description": "Cardiology is a branch of medicine that deals with disorders of the heart and the cardiovascular system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology.",
+      "HOD": "Dr.Sasi Kumar",
+      "id": 3
+    },
+    {
+      "DepartmentName": "Rheumatology",
+      "DepartmentProfileImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/11/rheumatologist_diagnose_GettyImages697568781_Thumb.jpg",
+      "YearFounded": "2013",
+      "Description": "Rheumatology is a branch of medicine devoted to the diagnosis and management of disorders whose common feature is inflammation in the bones, muscles, joints, and internal organs",
+      "HOD": "Sudeep Kumar",
+      "id": 4
+    },
+    {
+      "DepartmentName": "Neurosurgery",
+      "DepartmentProfileImage": "https://www.brainandspineni.com/wp-content/uploads/neurosurgery-2108.jpg",
+      "YearFounded": "2008",
+      "Description": "Our team of highly skilled and experienced Neurologists, provide the Right Treatment from Simple to Complex across for any Neuro Disorders",
+      "HOD": "Harisankar",
+      "id": 5
+    },
+    {
+      "DepartmentName": "Orthopaedics",
+      "DepartmentProfileImage": "https://rxdx.in/wp-content/uploads/2022/01/banner-orthopedic.jpg",
+      "YearFounded": "2011",
+      "Description": "Orthopaedics Narayana Health, the best orthopedic hospital in India provides comprehensive and world-class orthopaedic services. This department offers specialized care",
+      "HOD": "Sudeep Kumar",
+      "id": 6
+    },
+    {
+      "DepartmentName": "General Surgery",
+      "DepartmentProfileImage": "https://www.sparshhealth.com/wp-content/uploads/2022/01/GeneralSurgery_910x545-1.jpg",
+      "YearFounded": "2003",
+      "Description": "General Surgery General surgery department at Narayana Health comprises of highly experienced senior surgeons and competent staff. Our doctors help in making the surgical",
+      "HOD": "Ajay Krishnan",
+      "id": 7
+    },
+    {
+      "DepartmentName": "Gastroenterology",
+      "DepartmentProfileImage": "https://www.asterhospitals.in/sites/default/files/2022-10/Gastro%20Science.png",
+      "YearFounded": "2011",
+      "Description": "Gastroenterology Medical Narayana Health provides a wide variety of services ranging from the management of advanced gastrointestinal tumours and pancreatic cysts",
+      "HOD": "Amal Kumar",
+      "id": 8
+    }
+  ],
+  "HOD": [
+    {
+      "Name": "Ajay Krishnan K",
+      "EmployeeNumber": "45224",
+      "Age": "45",
+      "profileImage": "data:image/jpeg;base64,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",
+      "ProfileDescription": "personable, great listeners, and empathetic to the concerns of their patients",
+      "department": "Anaesthesia",
+      "id": 2
+    },
+    {
+      "Name": "Hari Sankar",
+      "EmployeeNumber": "854585",
+      "Age": "71",
+      "profileImage": "https://2.bp.blogspot.com/-wUD2SGHiBCg/XGVk3D2_6FI/AAAAAAACkqc/LWNsgSdN5YwQNqy7IsRj95GrjqauK5ZzACLcBGAs/s1600/thispersondoesnotexist-2.jpg",
+      "ProfileDescription": "diagnose, educate, and treat patients to ensure that they have the best possible care.",
+      "department": "Cardiology",
+      "id": 3
+    }
+  ],
+  "Employee": [
+    {
+      "Name": "Suresh KS",
+      "EmployeeNumber": 1700,
+      "Age": "Microbiology",
+      "profileImage": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "ProfileDescription": "very good personality",
+      "department": "Oncology",
+      "reportTo": "Ramesh",
+      "id": 1
+    },
+    {
+      "Name": "Athul PP",
+      "EmployeeNumber": "251575",
+      "Age": "25",
+      "profileImage": "https://i.pinimg.com/originals/e0/bc/5c/e0bc5cd4f1d7cff7116a325490b3010d.png",
+      "ProfileDescription": "Highly skilled",
+      "department": "Oncology",
+      "reportTo": "Dr.Harisankar",
+      "id": 3
+    },
+    {
+      "Name": "Athira",
+      "EmployeeNumber": "1522",
+      "Age": "cardiology",
+      "profileImage": "https://64.media.tumblr.com/e71a473f06412c0a9cff206d99bcdb46/e53e0deb8b75fe86-35/s540x810/fd203d819581a66b6f4484c2f88d074d2ff03352.jpg",
+      "ProfileDescription": "hard working,motivated",
+      "department": "",
+      "reportTo": "Dr.Harisankar",
+      "id": 4
+    }
+  ]
+}
